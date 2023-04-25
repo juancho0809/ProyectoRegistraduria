@@ -1,0 +1,53 @@
+Marcos;Jimenez;23678543;M;Soltero;10/10/1988;Cota;Madrid;Partido de la U;Alcaldía
+Felipe;Burgos;56789256;M;Casado;12/09/1967;Bogotá;Madrid;Conservador;Alcaldía
+Beatriz;Castro;48390278;F;Casada;3/08/1978;Funza;Madrid;Polo democratico;Alcaldía
+Santiago;García;83491712;M;Soltero;18/06/1972;;Madrid;Partido de la U;Concejo
+Paola;Fernández;14986237;F;Casada;4/12/1985;;Madrid;Liberal;Concejo
+Alberto;Hernández;57639128;M;Soltero;29/09/1988;;Madrid;Partido Verde;Concejo
+Emilio;Martínez;72184609;M;Divorciado;5/07/1976;;Madrid;Conservador;Concejo
+Juan;Gómez;91027583;M;Unión libre;13/04/1981;;Madrid;Polo Democrático;Concejo
+Mariana;González;43896752;F;Casada;22/10/1979;;Madrid;Partido Verde;Concejo
+Sofía;López;30275619;F;Soltera;14/01/1984;;Madrid;Conservador;Concejo
+Andrés;Rodríguez;68741935;M;Divorciado;11/08/1973;;Madrid;Polo Democrático;Concejo
+Rafael;Pérez;24196835;M;Unión libre;26/11/1987;;Madrid;Partido de la U;Concejo
+Diana;Sánchez;56931827;F;Soltera;19/03/1982;;Madrid;Liberal;Concejo
+Felipe;Romero;75824319;M;Divorciado;9/06/1978;;Madrid;Partido Verde;Concejo
+Mario;Suárez;34572689;M;Soltero;28/02/1989;;Madrid;Conservador;Concejo
+Ana;Navarro;98162357;F;Unión libre;16/12/1971;;Madrid;Liberal;Concejo
+Federico;Torres;45618792;M;Casado;23/05/1983;;Madrid;Partido de la U;Concejo
+Rubén;Flores;17298364;M;Divorciado;27/09/1980;;Madrid;Polo Democrático;Concejo
+Miguel;Vargas;91385726;M;Unión libre;8/02/1977;;Madrid;Partido de la U;Concejo
+Verónica;Moreno;82743596;F;Casada;6/11/1986;;Madrid;Conservador;Concejo
+Jorge;Ruiz;36197524;M;Soltero;17/08/1974;;Madrid;Liberal;Concejo
+Adriana;Medina;69471825;F;Unión libre;1/03/1988;;Madrid;Partido Verde;Concejo
+Tomás;Rivas;50829731;M;Casado;10/07/1979;;Madrid;Polo Democrático;Concejo
+Karla;Castro;14386579;F;Divorciado;25/01/1982;;Madrid;Liberal;Concejo
+Ignacio;Ortiz;92761438;M;Unión libre;3/10/1975;;Madrid;Partido Verde;Concejo
+Julia;Castro;75231986;F;Soltera;21/06/1983;;Madrid;Conservador;Concejo
+Esteban;Espinoza;46821537;M;Divorciado;12/04/1971;;Madrid;Partido de la U;Concejo
+Vanessa;Salazar;51973468;F;Soltera;24/09/1987;;Madrid;Polo Democrático;Concejo
+Joaquín;Zamora;83256197;M;Casado;15/01/1980;;Madrid;Partido Verde;Concejo
+Natalia;Ramos;29658413;F;Unión libre;2/11/1973;;Madrid;Partido de la U;Concejo
+Carlos;Mora;64827951;M;Soltero;7/07/1985;;Madrid;Conservador;Concejo
+Pedro;Rojas;37059618;M;Divorciado;20/02/1981;;Madrid;Polo Democrático;Concejo
+Valeria;Rivera;19725384;F;Casada;30/12/1976;;Madrid;Liberal;Concejo
+David;León;82514396;M;Unión libre;5/05/1989;;Madrid;Partido de la U;Concejo
+Octavio;Delgado;56274918;M;Soltero;18/11/1978;;Madrid;Partido Verde;Concejo
+José;Vásquez;98134726;M;Divorciado;8/08/1972;;Madrid;Conservador;Concejo
+Isabel;Mendoza;31468729;F;Unión libre;1/04/1986;;Madrid;Polo Democrático;Concejo
+Ricardo;García;85791263;M;Casado;26/10/1984;;Madrid;Liberal;Concejo
+Antonio;Aguilar;42695817;M;Soltero;13/02/1970;;Madrid;Partido Verde;Concejo
+Daniel;Carrasco;73918564;M;Casado;22/09/1981;;Madrid;Polo Democrático;Concejo
+Samuel;Araya;28419753;M;Soltero;11/03/1974;;Madrid;Conservador;Concejo
+Marco;Díaz;63158497;M;Unión libre;7/06/1980;;Madrid;Partido de la U;Concejo
+Ernesto;Herrera;46913827;M;Divorciado;4/01/1989;;Madrid;Liberal;Concejo
+Carmen;Alvarado;91286534;F;Casada;16/05/1977;;Madrid;Partido de la U;Concejo
+Agustín;Reyes;15837469;M;Unión libre;28/07/1983;;Madrid;Conservador;Concejo
+Javier;Ochoa;29574386;M;Soltero;24/12/1975;;Madrid;Partido Verde;Concejo
+Tania;Bravo;84721963;F;Divorciada;3/09/1988;;Madrid;Liberal;Concejo
+Andrew;Ramírez;67341829;M;Soltero;9/11/1971;;Madrid;Polo Democrático;Concejo
+Cristofer;Castillo;53927618;M;Unión libre;19/06/1979;;Madrid;Partido Verde;Concejo
+Mauro;Valdés;71685923;M;Casado;14/03/1982;;Madrid;Conservador;Concejo
+Luigi;Andrade;38129756;M;Divorciado;6/10/1974;;Madrid;Liberal;Concejo
+German;Gutiérrez;46798213;M;Unión libre;21/08/1985;;Madrid;Partido de la U;Concejo
+Edward;Sanchez;;M;Soltero;12/01/1987;;Madrid;Polo Democrático;Concejo

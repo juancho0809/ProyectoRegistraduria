@@ -1,0 +1,53 @@
+Luis;Cárdenas;56702021;M;Casado;10/01/1973;Monterrey;Yopal;Conservador;Alcaldía
+Julián;Vargas;59201531;M;Unión libre;1/10/1976;Villavicencio;Yopal;Partido verde;Alcaldía
+María;Yepes;67092456;F;Casada;7/09/1984;Yopal;Yopal;Liberal;Alcaldía
+Emilio;González;20986431;M;Soltero;12/05/1978;Yopal;Yopal;Partido de la U;Concejo
+Andrea;Romero;75894620;F;Unión libre;22/11/1983;Villavicencio;Yopal;Partido Verde;Concejo
+Rafael;Pérez;31258749;M;Divorciado;8/09/1975;Villavicencio;Yopal;Conservador;Concejo
+Lucía;Ramírez;96231857;F;Divorciado;15/02/1986;Monterrey;Yopal;Polo Democrático;Concejo
+Marcela;Gómez;68429375;F;Soltero;31/12/1989;Yopal;Yopal;Liberal;Concejo
+Luis;Flores;57413892;M;Unión libre;19/06/1982;Villavicencio;Yopal;Partido Verde;Concejo
+Ivana;Jiménez;48193276;F;Casado;27/07/1974;Yopal;Yopal;Polo Democrático;Concejo
+Santiago;Torres;72561043;M;Soltero;3/11/1976;Monterrey;Yopal;Conservador;Concejo
+Carolina;García;85392164;F;Divorciado;7/03/1988;Yopal;Yopal;Partido de la U;Concejo
+Pablo;Reyes;17965248;M;Casado;24/09/1979;Villavicencio;Yopal;Liberal;Concejo
+Sofía;Vargas;23659847;F;Unión libre;11/04/1981;Yopal;Yopal;Partido de la U;Concejo
+Fabián;Morales;95631847;M;Divorciado;28/02/1985;Yopal;Yopal;Liberal;Concejo
+Natalia;Fernández;34719526;F;Divorciado;6/12/1984;Villavicencio;Yopal;Partido Verde;Concejo
+Diego;Díaz;81265397;M;Casado;18/10/1973;Monterrey;Yopal;Conservador;Concejo
+Ana;Ruiz;60984725;F;Divorciado;20/08/1977;Yopal;Yopal;Polo Democrático;Concejo
+Juan;López;52847136;M;Casado;9/01/1989;Monterrey;Yopal;Partido Verde;Concejo
+Antonia;Ortiz;69375184;F;Unión libre;5/07/1971;Villavicencio;Yopal;Conservador;Concejo
+Gabriel;Hernández;84957231;M;Divorciado;23/03/1980;Yopal;Yopal;Polo Democrático;Concejo
+Valentina;Sánchez;12786534;F;Soltero;17/09/1987;Monterrey;Yopal;Partido de la U;Concejo
+Esteban;Castro;54729386;M;Casado;2/06/1972;Yopal;Yopal;Liberal;Concejo
+Renata;Aguilar;83219746;F;Soltero;1/12/1977;Villavicencio;Yopal;Partido Verde;Concejo
+Samuel;Rodríguez;93128475;M;Divorciado;10/08/1981;Villavicencio;Yopal;Conservador;Concejo
+Mariana;Cárdenas;40698325;F;Soltero;25/04/1988;Yopal;Yopal;Liberal;Concejo
+Rodrigo;Cruz;27956813;M;Unión libre;16/01/1976;Monterrey;Yopal;Partido de la U;Concejo
+Jimena;Espinoza;84571239;F;Soltero;21/05/1984;Villavicencio;Yopal;Polo Democrático;Concejo
+Ricardo;Moreno;72548396;M;Unión libre;30/07/1983;Yopal;Yopal;Partido de la U;Concejo
+Verónica;Flores;69143278;F;Casado;13/11/1979;Villavicencio;Yopal;Conservador;Concejo
+Sebastián;Acosta;19354827;M;Soltero;4/09/1982;Monterrey;Yopal;Liberal;Concejo
+María;Castro;23547196;F;Divorciado;29/06/1975;Villavicencio;Yopal;Partido Verde;Concejo
+Miguel;Núñez;81265437;M;Casado;14/03/1986;Yopal;Yopal;Polo Democrático;Concejo
+Martina;Bravo;48659731;F;Soltero;26/08/1978;Yopal;Yopal;Liberal;Concejo
+Andrés;Mendoza;92547831;M;Unión libre;8/01/1973;Villavicencio;Yopal;Partido Verde;Concejo
+Daniela;Pérez;63124759;F;Divorciado;12/04/1985;Monterrey;Yopal;Conservador;Concejo
+Tomás;Leal;91325746;M;Unión libre;3/10/1977;Villavicencio;Yopal;Partido de la U;Concejo
+Isabella;Rojas;47895123;F;Soltero;2/02/1989;Yopal;Yopal;Polo Democrático;Concejo
+Cristóbal;Montes;68294357;M;Casado;6/06/1980;Monterrey;Yopal;Partido Verde;Concejo
+Alejandra;Navarro;37549186;F;Unión libre;22/09/1974;Yopal;Yopal;Partido de la U;Concejo
+Matías;Salas;19483675;M;Casado;17/12/1981;Villavicencio;Yopal;Conservador;Concejo
+Paula;Ríos;75849312;F;Divorciado;9/07/1987;Monterrey;Yopal;Polo Democrático;Concejo
+Nicolás;Medina;29657438;M;Unión libre;31/01/1976;Yopal;Yopal;Liberal;Concejo
+Elena;Valenzuela;83571964;F;Soltero;26/05/1983;Monterrey;Yopal;Partido de la U;Concejo
+Javier;Olmos;17463298;M;Divorciado;20/11/1988;Yopal;Yopal;Conservador;Concejo
+Daniella;Valdés;46713825;F;Casado;5/03/1979;Villavicencio;Yopal;Partido Verde;Concejo
+Bruno;Contreras;98325674;M;Soltero;7/08/1972;Villavicencio;Yopal;Liberal;Concejo
+Camila;Bernal;52714698;F;Unión libre;19/04/1986;Monterrey;Yopal;Polo Democrático;Concejo
+Federico;Salgado;73491658;M;Divorciado;15/10/1973;Yopal;Yopal;Partido Verde;Concejo
+Marta;Álvarez;92135648;F;Unión libre;14/02/1984;Monterrey;Yopal;Conservador;Concejo
+Francisco;Villanueva;47956321;M;Soltero;23/06/1978;Yopal;Yopal;Liberal;Concejo
+Silvana;Montiel;82371549;F;Casado;28/12/1985;Villavicencio;Yopal;Partido de la U;Concejo
+Michael;Junco;83902749;M;Divorciado;11/09/1980;Yopal;Yopal;Polo Democrático;Concejo

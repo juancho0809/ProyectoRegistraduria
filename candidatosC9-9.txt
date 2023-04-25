@@ -1,0 +1,53 @@
+Jorge ;Garzón;52189476;M;Casado;15/07/1972;Duitama;Sogamoso;Partido verde;Alcaldía
+Lina;Rincón;53752002;F;Casada;18/03/1980;Sogamoso;Sogamoso;Liberal;Alcaldía
+Yeferson;Díaz;69876090;M;Soltero;28/12/1983;Tunja;Sogamoso;Partido de la U;Alcaldía
+Sofia;Rodriguez;86789012;F;Divorciada;18/07/1968;Duitama;Sogamoso;Partido Verde;Concejo
+Santiago;Martinez;10025076;M;Soltero;9/11/1973;Sogamoso;Sogamoso;Conservador;Concejo
+Emma;Garcia;32018549;F;Casadoa;22/06/1985;Paipa;Sogamoso;Liberal;Concejo
+Juan;Gonzalez;76543671;M;Union libre;1/03/1972;Tunja;Sogamoso;Partido de la U;Concejo
+Julia;Hernandez;92835790;F;Soltera;14/09/1987;Sogamoso;Sogamoso;Polo Democrático;Concejo
+Samuel;Lopez;65483299;M;Casado;27/12/1979;Paipa;Sogamoso;Partido de la U;Concejo
+Valentina;Perez;41095268;F;Soltera;30/10/1975;Duitama;Sogamoso;Conservador;Concejo
+Martin;Sanchez;27985321;M;Divorciado;2/05/1982;Tunja;Sogamoso;Liberal;Concejo
+Victoria;Gomez;50362487;F;Union libre;12/08/1988;Duitama;Sogamoso;Partido Verde;Concejo
+Diego;Flores;70698453;M;Casado;3/07/1971;Paipa;Sogamoso;Polo Democrático;Concejo
+Antonella;Torres;94107528;F;Divorciada;16/04/1974;Tunja;Sogamoso;Partido de la U;Concejo
+Joaquin;Ramirez;82500359;M;Soltero;29/11/1983;Sogamoso;Sogamoso;Liberal;Concejo
+Catalina;Castro;13579025;F;Union libre;8/01/1989;Paipa;Sogamoso;Partido Verde;Concejo
+Andres;Ramirez;64287451;M;Divorciado;24/09/1976;Duitama;Sogamoso;Conservador;Concejo
+Ana;Chavez;89761023;F;Casada;19/02/1981;Tunja;Sogamoso;Polo Democrático;Concejo
+Fabian;Ortiz;28903576;M;Union libre;11/06/1970;Sogamoso;Sogamoso;Partido Verde;Concejo
+Camila;Herrera;52410678;F;Soltera;26/12/1986;Duitama;Sogamoso;Conservador;Concejo
+Damian;Diaz;96508312;M;Casado;20/05/1977;Paipa;Sogamoso;Polo Democrático;Concejo
+Mariana;Cruz;76304985;F;Soltera;7/09/1984;Sogamoso;Sogamoso;Partido de la U;Concejo
+Sebastian;Alvarez;31450796;M;Divorciado;15/03/1980;Tunja;Sogamoso;Liberal;Concejo
+Isabel;Ramos;78904365;F;Soltera;23/11/1978;Paipa;Sogamoso;Partido de la U;Concejo
+Julian;Flores;47691238;M;Union libre;6/08/1982;Sogamoso;Sogamoso;Conservador;Concejo
+Maria;Jimenez;23186547;F;Divorciada;17/01/1971;Duitama;Sogamoso;Partido Verde;Concejo
+Felipe;Medina;68540123;M;Casado;4/07/1989;Tunja;Sogamoso;Liberal;Concejo
+Daniela;Sandoval;53920684;F;Soltera;28/05/1973;Sogamoso;Sogamoso;Polo Democrático;Concejo
+Nicolas;Mendoza;80746192;M;Divorciado;21/12/1986;Paipa;Sogamoso;Partido Verde;Concejo
+Carolina;Fernandez;96125483;F;Casada;10/02/1974;Duitama;Sogamoso;Conservador;Concejo
+Facundo;Aguilar;17485639;M;Soltero;3/10/1980;Tunja;Sogamoso;Liberal;Concejo
+Paula;Morales;62357940;F;Divorciada;12/09/1976;Sogamoso;Sogamoso;Partido de la U;Concejo
+Bruno;Reyes;40875296;M;Union libre;26/04/1987;Paipa;Sogamoso;Polo Democrático;Concejo
+Isabella;Flores;75902486;F;Casada;8/08/1979;Duitama;Sogamoso;Partido de la U;Concejo
+Gustavo;Vargas;92816403;M;Soltero;14/11/1975;Tunja;Sogamoso;Partido Verde;Concejo
+Lucia;Carrasco;65249870;F;Divorciada;1/01/1984;Sogamoso;Sogamoso;Conservador;Concejo
+Tomas;Nunez;53107496;M;Union libre;18/06/1972;Duitama;Sogamoso;Polo Democrático;Concejo
+Valeria;Escobar;14793568;F;Casada;27/03/1985;Paipa;Sogamoso;Liberal;Concejo
+Agustin;Romero;37019642;M;Divorciado;9/07/1979;Sogamoso;Sogamoso;Partido Verde;Concejo
+Renata;Franco;89563214;F;Union libre;5/12/1981;Tunja;Sogamoso;Polo Democrático;Concejo
+Matias;Rios;28465901;M;Soltero;16/10/1978;Paipa;Sogamoso;Conservador;Concejo
+Natalia;Aguilar;61793805;F;Casada;22/09/1970;Sogamoso;Sogamoso;Partido de la U;Concejo
+Lucas;Ochoa;43580269;M;Divorciado;13/08/1983;Duitama;Sogamoso;Liberal;Concejo
+Lorena;Mendez;76210358;F;Soltera;30/04/1977;Tunja;Sogamoso;Liberal;Concejo
+Emilia;Ortiz;98230457;F;Union libre;7/01/1988;Paipa;Sogamoso;Partido Verde;Concejo
+Gabriel;Rosales;39147682;M;Casado;23/05/1982;Duitama;Sogamoso;Conservador;Concejo
+Maribel;Duran;52419763;F;Soltera;19/11/1974;Sogamoso;Sogamoso;Partido de la U;Concejo
+Ramiro;Arroyo;87021643;M;Divorciado;6/03/1971;Tunja;Sogamoso;Polo Democrático;Concejo
+Silvana;Acosta;63589124;F;Soltera;25/12/1985;Paipa;Sogamoso;Partido Verde;Concejo
+Agustina;Solis;42795680;F;Union libre;17/02/1989;Duitama;Sogamoso;Partido de la U;Concejo
+Bruno;Moreno;10963725;M;Divorciado;11/06/1976;Sogamoso;Sogamoso;Conservador;Concejo
+Francisco;Fuentes;91357642;M;Soltero;8/09/1980;Sogamoso;Sogamoso;Polo Democrático;Concejo
+Pedro;Rivera;900203189;M;Casado;4/11/1969;Paipa;Sogamoso;Liberal;Concejo

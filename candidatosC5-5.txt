@@ -1,0 +1,53 @@
+Camilo;Vargas;23741938;M;Soltero;13/02/1985;Soacha;Bogotá;Partido de la U;Alcaldía
+David;Nuñez;48320567;M;Union libre;7/06/1978;Madrid;Bogotá;Partido verde;Alcaldía
+Lucía;Jimenez;47902293;F;Casada;26/05/1979;Bogotá;Bogotá;Liberal;Alcaldía
+Juan;Hernandez;98120544;M;Casado;1/05/1972;Tunja;Bogotá;Partido de la U;Concejo
+Luis;Gomez;76302810;M;Soltero;9/07/1985;Funza;Bogotá;Partido Verde;Concejo
+Diego;Torres;42760379;M;Divorciado;23/04/1968;Mosquera;Bogotá;Conservador;Concejo
+Marcelo;Rodriguez;59083715;M;Union libre;13/09/1987;Bogotá;Bogotá;Polo Democrático;Concejo
+Fernando;Garcia;17604892;M;Soltero;11/03/1979;Cali;Bogotá;Liberal;Concejo
+Camila;Perez;30984152;F;Union libre;28/06/1982;Ibagué;Bogotá;Partido Verde;Concejo
+Santiago;Gonzalez;73196805;M;Casado;15/10/1971;Madrid;Bogotá;Polo Democrático;Concejo
+Lucía;Martinez;28506194;F;Divorciada;7/12/1984;Bogotá;Bogotá;Conservador;Concejo
+Andrea;Diaz;87460231;F;Soltera;17/08/1974;Zipaquirá;Bogotá;Partido de la U;Concejo
+Ana;Sanchez;57901436;F;Casada;30/11/1986;Paipa;Bogotá;Liberal;Concejo
+Gabriel;Castro;13627508;M;Soltero;8/05/1973;Mosquera;Bogotá;Liberal;Concejo
+Sofía;Fernandez;94658321;F;Union libre;19/09/1978;Madrid;Bogotá;Partido Verde;Concejo
+David;Ramirez;82761903;M;Casado;26/02/1966;Funza;Bogotá;Conservador;Concejo
+Carolina;Morales;42083157;F;Divorciada;22/07/1983;Bogotá;Bogotá;Partido de la U;Concejo
+Felipe;Ortiz;16479283;M;Soltero;5/11/1969;Soacha;Bogotá;Polo Democrático;Concejo
+Martina;Alvarez;70598123;F;Union libre;14/12/1988;Bogotá;Bogotá;Partido Verde;Concejo
+Esteban;Rivera;92357068;M;Casado;12/04/1977;Madrid;Bogotá;Partido de la U;Concejo
+Valentina;Flores;60834192;F;Soltera;18/01/1980;Mosquera;Bogotá;Conservador;Concejo
+Mario;Espinoza;78190346;M;Divorciado;27/03/1965;Funza;Bogotá;Polo Democrático;Concejo
+Julio;Reyes;37509618;M;Union libre;10/08/1976;Soacha;Bogotá;Liberal;Concejo
+Pablo;Chavez;95870312;M;Soltero;6/06/1981;Bogotá;Bogotá;Partido de la U;Concejo
+Andrea;Silva;41329675;F;Casada;3/02/1970;Funza;Bogotá;Conservador;Concejo
+Nicolás;Vargas;23658740;M;Union libre;21/09/1989;Soacha;Bogotá;Partido Verde;Concejo
+Daniela;Jimenez;69034821;F;Divorciada;25/12/1963;Madrid;Bogotá;Liberal;Concejo
+Javier;Cruz;52410938;M;Casado;20/01/1975;Bogotá;Bogotá;Polo Democrático;Concejo
+Isabella;Romero;79106583;F;Soltera;29/03/1984;Funza;Bogotá;Partido Verde;Concejo
+Ricardo;Rios;13705928;M;Divorciado;16/07/1970;Mosquera;Bogotá;Conservador;Concejo
+María;Herrera;39572016;F;Union libre;4/11/1978;Soacha;Bogotá;Liberal;Concejo
+Mateo;Mendoza;68204931;M;Casado;2/06/1985;Bogotá;Bogotá;Partido de la U;Concejo
+Alejandro;Aguilar;27190438;M;Divorciado;24/09/1982;Mosquera;Bogotá;Polo Democrático;Concejo
+José;Castro;83615709;M;Soltero;31/10/1975;Soacha;Bogotá;Liberal;Concejo
+Helena;Contreras;56701493;F;Union libre;8/02/1967;Funza;Bogotá;Partido Verde;Concejo
+Miguel;Herrera;14289706;M;Casado;12/06/1987;Madrid;Bogotá;Conservador;Concejo
+Victoria;Sandoval;69502184;M;Divorciado;5/01/1979;Bogotá;Bogotá;Partido de la U;Concejo
+Manuel;Miranda;87904631;M;Soltero;19/04/1976;Soacha;Bogotá;Polo Democrático;Concejo
+Laura;Valenzuela;41387502;F;Union libre;21/11/1983;Madrid;Bogotá;Partido Verde;Concejo
+Daniel;Dominguez;19786430;M;Casado;9/08/1971;Mosquera;Bogotá;Partido de la U;Concejo
+Tatiana;Figueroa;63075198;F;Soltera;14/05/1964;Funza;Bogotá;Conservador;Concejo
+Jorge;Pacheco;86159420;M;Divorciado;30/06/1973;Madrid;Bogotá;Polo Democrático;Concejo
+Catalina;Medina;50918346;M;Union libre;23/10/1986;Bogotá;Bogotá;Liberal;Concejo
+Pedro;Pineda;23849057;M;Casado;7/12/1972;Mosquera;Bogotá;Partido de la U;Concejo
+Natalia;Cortes;76098312;F;Divorciada;17/02/1989;Funza;Bogotá;Conservador;Concejo
+Carla;Velasquez;61452789;F;Soltera;25/08/1968;Soacha;Bogotá;Partido Verde;Concejo
+Adriana;Salazar;82903514;F;Union libre;4/01/1980;Madrid;Bogotá;Liberal;Concejo
+Samuel;Acosta;16397482;M;Soltero;13/03/1975;Bogotá;Bogotá;Polo Democrático;Concejo
+Lorena;Arias;49280735;F;Casada;22/06/1984;Mosquera;Bogotá;Partido Verde;Concejo
+Oscar;Muñoz;78532016;M;Divorciado;11/09/1966;Funza;Bogotá;Conservador;Concejo
+Diana;Benitez;24980673;F;Union libre;2/12/1981;Soacha;Bogotá;Liberal;Concejo
+Ramiro;Nuñez;51804927;M;Soltero;27/05/1977;Armenia;Bogotá;Partido de la U;Concejo
+Sara;Nariño;36759084;F;Casada;6/08/1970;Popayán;Bogotá;Polo Democrático;Concejo
