@@ -1,0 +1,3 @@
+Magdalena;Ríos;81345965;F;Casada;15/11/1965;Soledad;Barranquilla;Conservador
+Arturo;Vasquez;34673489;M;Divorciado;12/03/1975;Santa Marta;Barranquilla;Partido de la U
+Angelica ;Muñoz;65760457;F;Soltera;28/06/1984;Barranquilla;Barranquilla;Partido verde

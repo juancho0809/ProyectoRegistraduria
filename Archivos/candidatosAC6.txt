@@ -1,0 +1,3 @@
+Guillermo;Martinez;39807456;M;Casado;12/12/1972;Rionegro;Medellín;Conservador
+Dora;Galindo;57947862;F;Soltera;24/07/1981;Bello;Medellín;Partido de la U
+Felipe;Hurtado;38903117;M;Divorciado;19/09/1979;Bogotá;Medellín;Partido verde

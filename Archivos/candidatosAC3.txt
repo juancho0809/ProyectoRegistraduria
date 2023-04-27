@@ -1,0 +1,3 @@
+Martin ;Zapata;45678932;M;Soltero;12/08/1981;Buga;Cali;Polo democratico
+Erick;Gutierrez;36789591;M;Casado;17/01/1986;Palmira;Cali;Liberal
+Andrea ;Bustos;34236895;F;Soltera;19/04/1987;Cali;Cali;Partido verde

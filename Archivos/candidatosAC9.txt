@@ -1,0 +1,3 @@
+Jorge ;Garzón;52189476;M;Casado;15/07/1972;Duitama;Sogamoso;Partido verde
+Lina;Rincón;53752002;F;Casada;18/03/1980;Sogamoso;Sogamoso;Liberal
+Yeferson;Díaz;69876090;M;Soltero;28/12/1983;Tunja;Sogamoso;Partido de la U
