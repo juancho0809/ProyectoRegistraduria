@@ -1,0 +1,3 @@
+Emilio;González;20986431;M;Soltero;12/05/1978;Yopal;Yopal;Partido de la U
+Andrea;Romero;75894620;F;Unión libre;22/11/1983;Villavicencio;Yopal;Partido Verde
+Rafael;Pérez;31258749;M;Divorciado;8/09/1975;Villavicencio;Yopal;Conservador

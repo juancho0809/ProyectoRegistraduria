@@ -1,0 +1,3 @@
+Gloria;Londoño;56239334;M;Casada;6/03/1976;Bogotá;Soacha;Polo democratico
+David;Casas;67203198;F;Soltero;27/02/1981;Soacha;Soacha;Liberal
+Andres;Gaviria;48651487;M;Casado;22/11/1977;Bogotá;Soacha;Partido de la U

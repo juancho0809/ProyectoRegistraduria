@@ -1,0 +1,3 @@
+Fabio;Dominguez;54390812;M;Soltero;11/08/1983;Cúcuta ;Bucaramanga;Liberal
+Hector;Caballero;41237498;M;Casado;7/05/1968;Pamplona;Bucaramanga;Conservador
+Victor;Rincon;68761289;M;Casado;9/10/1973;Bucaramanga;Bucaramanga;Polo democratico

@@ -1,0 +1,3 @@
+Juan ;Pedraza;93431918;M;Casado;5/10/1982;Duitama;Tunja;Partido verde
+Maria ;Escobar;57485719;F;Casada;13/02/1974;Villa de Leyva;Tunja;Conservador
+Alexander;Garavito;37981870;M;Soltero;17/05/1987;Tunja;Tunja;Liberal
