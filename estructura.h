@@ -1,6 +1,6 @@
 #include <string>
 #include <iostream>
-#include "claselista.h"
+
 
 
 #ifndef ESTRUCTURA_H
@@ -8,19 +8,19 @@
 
 using namespace std;
 
-struct ciudad{
+struct Ciudad{
 	string nombre;
 	string departamento;
-	int tamconcejo;
-	int censoelectoral; //generado aleatoriamente
+	string tamconcejo;
+//	int censoelectoral; //generado aleatoriamente
 };
 
-struct partido{
+struct Partido{
 	string nombre;
 	string reprelegal;
 };
 
-struct candidatos{
+struct Candidatos{
 	string nombre;
 	string apellido;
 	int long id;
@@ -28,8 +28,8 @@ struct candidatos{
 	string estadocivil;
 	string fechanacimiento;
 	string ciudadnacimiento;
-	Lista <ciudad> ciudadresidencia;
-	Lista <partido> partidorepre;
+	//Lista <ciudad> ciudadresidencia;
+	//Lista <partido> partidorepre;
 	bool alcalde;
 	
 };

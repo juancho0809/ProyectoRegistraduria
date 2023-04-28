@@ -1,3 +1,0 @@
-Este es un ejemplo de archivo de texto generado desde C++.
-Puedes escribir cualquier información aquí.
-¡Diviértete creando tus propios archivos!
