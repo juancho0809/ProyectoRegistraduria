@@ -1,11 +1,12 @@
+Bogotá DC 45 
+Tunja Boyacá 17 
+Cali Cauca 21 
+Barranquilla Atlántico 21 
+Madrid Cundinamarca 15 
+Medellín Antioquia 21 
+Bucaramanga Santander 19 
+Soacha Cundinamarca 19 
+Sogamoso Boyacá 17 
+Yopal Casanare 17 
+Cartagena Atlantico 21
 
-Bogotá;DC;45;
-Tunja;Boyacá;17;
-Cali;Valle;del;Cauca;21;
-Barranquilla;Atlántico;21;
-Madrid;Cundinamarca;15;
-Medellín;Antioquia;21;
-Bucaramanga;Santander;19;
-Soacha;Cundinamarca;19;
-Sogamoso;Boyacá;17;
-Yopal;Casanare;17

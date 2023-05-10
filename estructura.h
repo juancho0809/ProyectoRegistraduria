@@ -12,6 +12,9 @@ struct Ciudad{
 	string nombre;
 	string departamento;
 	string tamconcejo;
+	string nombreaux;//variable para modificar
+	string departamentoaux;//variable para modificar
+	string tamconcejoaux;//variable para modificar
 //	int censoelectoral; //generado aleatoriamente
 };
 
