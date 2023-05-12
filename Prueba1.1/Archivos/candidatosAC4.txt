@@ -1,0 +1,3 @@
+Marcos;Jimenez;23678543;M;Soltero;10/10/1988;Cota;Madrid;Partido de la U
+Felipe;Burgos;56789256;M;Casado;12/09/1967;Bogotá;Madrid;Conservador
+Beatriz;Castro;48390278;F;Casada;3/08/1978;Funza;Madrid;Polo democratico

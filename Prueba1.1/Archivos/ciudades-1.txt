@@ -1,0 +1,13 @@
+
+Bogota;DC;45;
+Tunja;Boyaca;17;
+Cali;Cauca;21;
+Barranquilla;Atlantico;21;
+Madrid;Cundinamarca;15;
+Medellin;Antioquia;21;
+Bucaramanga;Santander;19;
+Soacha;Cundinamarca;19;
+Sogamoso;Boyaca;17;
+Yopal;Casanare;17;
+Cartagena;Atlantico;21;
+
