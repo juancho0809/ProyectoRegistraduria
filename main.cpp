@@ -7,6 +7,9 @@
 #include <sstream>
 #include "estructura.h"
 #include "ciudad.h"
+#include "alcaldes.h"
+
+
 
 using namespace std;
 
@@ -15,8 +18,8 @@ int main(){
 	setlocale(LC_ALL,"spanish");
 	system("PAUSE");
 	Ciudades c;
-	c.menuciudad();
-
+	Alcaldes a;
+	a.menuCandidato();
 }
 
 

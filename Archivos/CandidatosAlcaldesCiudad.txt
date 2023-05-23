@@ -1,30 +1,34 @@
-Juan;Pedraza;93431918;M;Casado;5/10/1982;Duitama;Tunja;Partido verde
-Maria;Escobar;57485719;F;Casada;13/02/1974;Villa de Leyva;Tunja;Conservador
-Alexander;Garavito;37981870;M;Soltero;17/05/1987;Tunja;Tunja;Liberal
-Magdalena;Ríos;81345965;F;Casada;15/11/1965;Soledad;Barranquilla;Conservador
-Arturo;Vasquez;34673489;M;Divorciado;12/03/1975;Santa Marta;Barranquilla;Partido de la U
-Angelica ;Muñoz;65760457;F;Soltera;28/06/1984;Barranquilla;Barranquilla;Partido verde
-Martin ;Zapata;45678932;M;Soltero;12/08/1981;Buga;Cali;Polo democratico
-Erick;Gutierrez;36789591;M;Casado;17/01/1986;Palmira;Cali;Liberal
-Andrea ;Bustos;34236895;F;Soltera;19/04/1987;Cali;Cali;Partido verde
-Marcos;Jimenez;23678543;M;Soltero;10/10/1988;Cota;Madrid;Partido de la U
-Felipe;Burgos;56789256;M;Casado;12/09/1967;Bogotá;Madrid;Conservador
-Beatriz;Castro;48390278;F;Casada;3/08/1978;Funza;Madrid;Polo democratico
-Camilo;Vargas;23741938;M;Soltero;13/02/1985;Soacha;Bogotá;Partido de la U
-David;Nuñez;48320567;M;Union libre;7/06/1978;Madrid;Bogotá;Partido verde
-Lucía;Jimenez;47902293;F;Casada;26/05/1979;Bogotá;Bogotá;Liberal
-Guillermo;Martinez;39807456;M;Casado;12/12/1972;Rionegro;Medellín;Conservador
-Dora;Galindo;57947862;F;Soltera;24/07/1981;Bello;Medellín;Partido de la U
-Felipe;Hurtado;38903117;M;Divorciado;19/09/1979;Bogotá;Medellín;Partido verde
-Fabio;Dominguez;54390812;M;Soltero;11/08/1983;Cúcuta ;Bucaramanga;Liberal
-Hector;Caballero;41237498;M;Casado;7/05/1968;Pamplona;Bucaramanga;Conservador
-Victor;Rincon;68761289;M;Casado;9/10/1973;Bucaramanga;Bucaramanga;Polo democratico
-Gloria;Londoño;56239334;M;Casada;6/03/1976;Bogotá;Soacha;Polo democratico
-David;Casas;67203198;F;Soltero;27/02/1981;Soacha;Soacha;Liberal
-Andres;Gaviria;48651487;M;Casado;22/11/1977;Bogotá;Soacha;Partido de la U
-Jorge ;Garzón;52189476;M;Casado;15/07/1972;Duitama;Sogamoso;Partido verde
-Lina;Rincón;53752002;F;Casada;18/03/1980;Sogamoso;Sogamoso;Liberal
-Yeferson;Díaz;69876090;M;Soltero;28/12/1983;Tunja;Sogamoso;Partido de la U
-Emilio;González;20986431;M;Soltero;12/05/1978;Yopal;Yopal;Partido de la U
-Andrea;Romero;75894620;F;Unión libre;22/11/1983;Villavicencio;Yopal;Partido Verde
-Rafael;Pérez;31258749;M;Divorciado;8/09/1975;Villavicencio;Yopal;Conservador
+Tunja;Juan;Pedraza;93431918;M;Casado;5/10/1982;Duitama;Partido verde;
+Tunja;Maria;Escobar;57485719;F;Casada;13/02/1974;Villa de Leyva;Conservador
+Tunja;Alexander;Garavito;37981870;M;Soltero;17/05/1987;Tunja;Liberal
+Barranquilla;Magdalena;Rios;81345965;F;Casada;15/11/1965;Soledad;Conservador
+Barranquilla;Arturo;Vasquez;34673489;M;Divorciado;12/03/1975;Santa Marta;Partido de la U
+Barranquilla;Angelica ;Munioz;65760457;F;Soltera;28/06/1984;Barranquilla;Partido verde
+Cali;Martin ;Zapata;45678932;M;Soltero;12/08/1981;Buga;Polo democratico
+Cali;Erick;Gutierrez;36789591;M;Casado;17/01/1986;Palmira;Liberal
+Cali;Andrea;Bustos;34236895;F;Soltera;19/04/1987;Cali;Partido verde
+Madrid;Marcos;Jimenez;23678543;M;Soltero;10/10/1988;Cota;Partido de la U
+Madrid;Felipe;Burgos;56789256;M;Casado;12/09/1967;Bogota;Conservador
+Madrid;Beatriz;Castro;48390278;F;Casada;3/08/1978;Funza;Polo democratico
+Bogota;Camilo;Vargas;23741938;M;Soltero;13/02/1985;Soacha;Partido de la U
+Bogota;David;Nuniez;48320567;M;Union libre;7/06/1978;Madrid;Partido verde
+Bogota;Lucia;Jimenez;47902293;F;Casada;26/05/1979;Bogota;Liberal
+Medellin;Guillermo;Martinez;39807456;M;Casado;12/12/1972;Rionegro;Conservador
+Medellin;Dora;Galindo;57947862;F;Soltera;24/07/1981;Bello;Partido de la U
+Medellin;Felipe;Hurtado;38903117;M;Divorciado;19/09/1979;Bogota;Partido verde
+Bucaramanga;Fabio;Dominguez;54390812;M;Soltero;11/08/1983;Cucuta;Liberal
+Bucaramanga;Hector;Caballero;41237498;M;Casado;7/05/1968;Pamplona;Conservador
+Bucaramanga;Victor;Rincon;68761289;M;Casado;9/10/1973;Bucaramanga;Polo democratico
+Soacha;Gloria;Londonio;56239334;M;Casada;6/03/1976;Bogota;Polo democratico
+Soacha;David;Casas;67203198;F;Soltero;27/02/1981;Soacha;Liberal
+Soacha;Andres;Gaviria;48651487;M;Casado;22/11/1977;Bogota;Partido de la U
+Sogamoso;Jorge ;Garzon;52189476;M;Casado;15/07/1972;Duitama;Partido verde
+Sogamoso;Lina;Rincon;53752002;F;Casada;18/03/1980;Sogamoso;Liberal
+Sogamoso;Yeferson;Diaz;69876090;M;Soltero;28/12/1983;Tunja;Partido de la U
+Yopal;Emilio;Gonzalez;20986431;M;Soltero;12/05/1978;Yopal;Partido de la U
+Yopal;Andrea;Romero;75894620;F;Union libre;22/11/1983;Villavicencio;Partido Verde
+Yopal;Rafael;Perez;31258749;M;Divorciado;8/09/1975;Villavicencio;Conservador
+Bogota;Juan;Lozad;1019842290;M;Soltero;08/09/2004;Bogota;Liberal
+Soacha;Johan;Beltran;1323467;M;Soltero;12/08/2003;Bogota;Conservador
+Boyaca;Almeja;Rodriguez;1235674;F;Divorciado;12/08/1997;Medellin;Verde
+Barranquilla;Nicolas;romero;7895214;M;Soltero;16/02/1960;Barranquilla;Cambio Radical
