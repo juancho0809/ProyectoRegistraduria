@@ -1,0 +1,4 @@
+Medellin;Antioquia;30;
+Cartagena;Atlantico;30;
+Bogota DC;Cundinamarca;45;
+Chicoral;Pan;33

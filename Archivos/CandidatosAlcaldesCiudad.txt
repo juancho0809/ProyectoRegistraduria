@@ -1,0 +1,30 @@
+Juan;Pedraza;93431918;M;Casado;5/10/1982;Duitama;Tunja;Partido verde
+Maria;Escobar;57485719;F;Casada;13/02/1974;Villa de Leyva;Tunja;Conservador
+Alexander;Garavito;37981870;M;Soltero;17/05/1987;Tunja;Tunja;Liberal
+Magdalena;Ríos;81345965;F;Casada;15/11/1965;Soledad;Barranquilla;Conservador
+Arturo;Vasquez;34673489;M;Divorciado;12/03/1975;Santa Marta;Barranquilla;Partido de la U
+Angelica ;Muñoz;65760457;F;Soltera;28/06/1984;Barranquilla;Barranquilla;Partido verde
+Martin ;Zapata;45678932;M;Soltero;12/08/1981;Buga;Cali;Polo democratico
+Erick;Gutierrez;36789591;M;Casado;17/01/1986;Palmira;Cali;Liberal
+Andrea ;Bustos;34236895;F;Soltera;19/04/1987;Cali;Cali;Partido verde
+Marcos;Jimenez;23678543;M;Soltero;10/10/1988;Cota;Madrid;Partido de la U
+Felipe;Burgos;56789256;M;Casado;12/09/1967;Bogotá;Madrid;Conservador
+Beatriz;Castro;48390278;F;Casada;3/08/1978;Funza;Madrid;Polo democratico
+Camilo;Vargas;23741938;M;Soltero;13/02/1985;Soacha;Bogotá;Partido de la U
+David;Nuñez;48320567;M;Union libre;7/06/1978;Madrid;Bogotá;Partido verde
+Lucía;Jimenez;47902293;F;Casada;26/05/1979;Bogotá;Bogotá;Liberal
+Guillermo;Martinez;39807456;M;Casado;12/12/1972;Rionegro;Medellín;Conservador
+Dora;Galindo;57947862;F;Soltera;24/07/1981;Bello;Medellín;Partido de la U
+Felipe;Hurtado;38903117;M;Divorciado;19/09/1979;Bogotá;Medellín;Partido verde
+Fabio;Dominguez;54390812;M;Soltero;11/08/1983;Cúcuta ;Bucaramanga;Liberal
+Hector;Caballero;41237498;M;Casado;7/05/1968;Pamplona;Bucaramanga;Conservador
+Victor;Rincon;68761289;M;Casado;9/10/1973;Bucaramanga;Bucaramanga;Polo democratico
+Gloria;Londoño;56239334;M;Casada;6/03/1976;Bogotá;Soacha;Polo democratico
+David;Casas;67203198;F;Soltero;27/02/1981;Soacha;Soacha;Liberal
+Andres;Gaviria;48651487;M;Casado;22/11/1977;Bogotá;Soacha;Partido de la U
+Jorge ;Garzón;52189476;M;Casado;15/07/1972;Duitama;Sogamoso;Partido verde
+Lina;Rincón;53752002;F;Casada;18/03/1980;Sogamoso;Sogamoso;Liberal
+Yeferson;Díaz;69876090;M;Soltero;28/12/1983;Tunja;Sogamoso;Partido de la U
+Emilio;González;20986431;M;Soltero;12/05/1978;Yopal;Yopal;Partido de la U
+Andrea;Romero;75894620;F;Unión libre;22/11/1983;Villavicencio;Yopal;Partido Verde
+Rafael;Pérez;31258749;M;Divorciado;8/09/1975;Villavicencio;Yopal;Conservador

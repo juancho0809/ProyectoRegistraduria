@@ -1,0 +1,50 @@
+Carlos;González;12345678;M;Divorciado;12/03/1985;Sogamoso;Tunja;Partido de la U
+Sofía;Álvarez;87654321;F;Union libre;5/06/1979;Soracá;Tunja;Partido Verde
+Juan;García;98765432;M;Divorciado;22/11/1982;Villa de Leyva;Tunja;Polo Democrático
+Ana;López;23456789;F;Casada;18/09/1988;Tunja;Tunja;Conservador
+Miguel;Hernández;34567890;M;Soltero;7/12/1976;Toca;Tunja;Partido de la U
+Andrea;Moreno;45678901;F;Divorciada;30/05/1981;Duitama;Tunja;Partido Verde
+Luisa;Gómez;56789012;F;Soltero;23/08/1977;Paipa;Tunja;Liberal
+Pedro;Fernández;67890123;M;Divorciado;14/02/1983;Chiquinquira;Tunja;Liberal
+Victoria;Pérez;78901234;F;Casada;27/01/1986;Villa de Leyva;Tunja;Polo Democrático
+José;Santos;89012345;M;Divorciado;1/08/1989;Tunja;Tunja;Conservador
+Gabriela;Ruiz;90123456;F;Union libre;9/04/1984;Boyacá;Tunja;Conservador
+Santiago;Torres;43210987;M;Divorciado;17/07/1975;Soracá;Tunja;Partido Verde
+Mariana;Vargas;54321098;F;Union libre;10/10/1980;Chiquinquira;Tunja;Partido de la U
+Francisco;Mendoza;65432109;M;Soltero;2/09/1974;Miraflores;Tunja;Liberal
+Valentina;Flores;76543210;F;Soltera;26/06/1987;Villa de Leyva;Tunja;Conservador
+Daniel;Rodríguez;67890543;M;Union libre;13/01/1978;Villa de Leyva;Tunja;Polo Democrático
+Carolina;Castro;45678902;F;Casada;15/03/1986;Tunja;Tunja;Polo Democrático
+Jorge;Sánchez;23456791;M;Soltero;6/07/1982;Villa de Leyva;Tunja;Partido de la U
+Verónica;Ramírez;12345689;F;Union libre;4/12/1984;Paipa;Tunja;Conservador
+David;López;89012367;M;Soltero;28/02/1979;Tunja;Tunja;Liberal
+Paola;Jiménez;45678909;F;Union libre;3/05/1983;Chiquinquira;Tunja;Conservador
+Eduardo;Torres;12345677;M;Divorciado;8/08/1980;Soracá;Tunja;Partido de la U
+Diana;Medina;98765439;F;Union libre;11/11/1977;Villa de Leyva;Tunja;Partido Verde
+Pablo;Fernández;23456782;M;Casado;20/09/1981;Miraflores;Tunja;Polo Democrático
+Natalia;Ortiz;45678905;F;Soltera;31/12/1976;;Tunja;Partido Verde
+Antonio;Montoya;67890109;M;Union libre;19/02/1988;;Tunja;Partido Verde
+Alejandra;Reyes;34567891;F;Casado;21/06/1979;Duitama;Tunja;Partido de la U
+Guillermo;Castro;89012346;M;Divorciado;24/08/1982;Boyacá;Tunja;Liberal
+1;Isabella;Díaz;78901235;F;Casada;16/11/1985;Bogotá;Tunja;Partido Verde
+Bruno;Herrera;23456787;M;Soltero;25/01/1976;Sogamoso;Tunja;Conservador
+Alejandro;Soto;65432106;M;Casado;7/03/1984;Duitama;Tunja;Partido de la U
+Rafael;López;98765430;M;Union libre;22/05/1977;Moniquira;Tunja;Polo Democrático
+Daniela;Ramírez;45678903;F;Soltera;12/09/1983;Sogamoso;Tunja;Partido de la U
+1;Arturo;Cruz;87654329;M;Casado;18/10/1978;Bogotá;Tunja;Polo Democrático
+Camilo;Gutiérrez;23456783;M;Soltero;9/02/1986;Tunja;Tunja;Conservador
+Roberto;Rodríguez;56789019;M;Union libre;30/04/1981;Tunja;Tunja;Partido Verde
+Andrea;Espinosa;34567896;F;Divorciada;14/07/1975;Duitama;Tunja;Liberal
+Mauricio;Álvarez;65432108;M;Union libre;5/11/1989;Soracá;Tunja;Partido de la U
+Claudia;Gómez;12345681;F;Casada;28/12/1974;Garagoa;Tunja;Liberal
+Juan;López;78901239;M;Divorciado;1/02/1980;Tunja;Tunja;Partido Verde
+Ana;Pérez;67890124;F;Soltera;11/05/1986;Garagoa;Tunja;Polo Democrático
+1;Andrés;Hernández;89012340;M;Casado;8/08/1977;Bogotá;Tunja;Conservador
+Estefanía;Vega;90123452;F;Divorciada;23/10/1981;Miraflores;Tunja;Liberal
+Diego;Ríos;45678904;M;Soltero;6/12/1984;Chiquinquira;Tunja;Partido Verde
+Laura;Moreno;54321097;F;Union libre;4/09/1988;Tunja;Tunja;Polo Democrático
+Gustavo;González;23456788;M;Divorciado;2/01/1983;Chiquinquira;Tunja;Liberal
+Carmen;Torres;98765431;F;Casada;3/07/1979;Soracá;Tunja;Conservador
+Manuel;García;67890120;M;Divorciado;16/06/1982;Duitama;Tunja;Polo Democrático
+Jimena;Castro;12345680;F;Union libre;27/03/1985;Tunja;Tunja;Liberal
+Rodrigo;Sánchez;45678908;M;Soltero;13/07/1988;Duitama;Tunja;Partido de la U
