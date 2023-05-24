@@ -1,0 +1,50 @@
+Camilo;García;87654321;M;Soltero;6/12/1973;Medellin;Medellín;Partido de la U
+Ana;López;12345678;F;Divorciada;9/05/1985;Bello;Medellín;Conservador
+Juan;González;45678901;M;Casado;2/08/1988;Rionegro;Medellín;Partido Verde
+Diego;Martínez;98765432;M;Union libre;1/11/1979;Envigado;Medellín;Liberal
+Luisa;Rodríguez;23456789;F;Soltero;15/07/1982;Medellin;Medellín;Polo Democrático
+Mateo;Sánchez;10987654;M;Divorciado;18/04/1971;Envigado;Medellín;Partido Verde
+Valentina;Fernández;87651234;F;Soltera;25/06/1987;Rionegro;Medellín;Conservador
+Daniel;Pérez;43219876;M;Casado;21/03/1980;Bello;Medellín;Liberal
+Felipe;Gómez;76543210;M;Union libre;29/12/1974;Medellin;Medellín;Partido de la U
+Laura;Martín;98765431;F;Soltera;7/09/1989;Rionegro;Medellín;Polo Democrático
+Santiago;Ruiz;34567890;M;Casado;12/02/1986;Envigado;Medellín;Partido Verde
+Samuel;Hernández;21098765;M;Soltero;28/11/1976;Bello;Medellín;Conservador
+Gabriel;Jiménez;65432109;M;Union libre;10/10/1972;Rionegro;Medellín;Liberal
+Andrés;Díaz;89012345;M;Divorciado;17/01/1981;Medellin;Medellín;Partido de la U
+David;Moreno;56789012;M;Casado;4/03/1978;Bello;Medellín;Polo Democrático
+Carlos;Álvarez;12349876;M;Divorciado;23/09/1983;Envigado;Medellín;Partido de la U
+Nicolás;Romero;90123456;M;Union libre;30/08/1984;Rionegro;Medellín;Conservador
+Ricardo;Navarro;78901234;M;Soltero;19/06/1977;Bello;Medellín;Liberal
+Oscar;Torres;45671234;M;Divorciado;22/12/1981;Medellin;Medellín;Partido Verde
+Esteban;Ramírez;23456780;M;Casado;3/01/1970;Envigado;Medellín;Polo Democrático
+Mario;Ortiz;56780123;M;Soltero;20/11/1989;Rionegro;Medellín;Partido de la U
+Antonio;Rubio;34567891;M;Divorciado;27/10/1975;Bello;Medellín;Liberal
+José;Castro;78906543;M;Union libre;13/07/1986;Rionegro;Medellín;Partido Verde
+Pedro;Ramón;87654012;M;Soltero;16/02/1988;Medellin;Medellín;Conservador
+Francisco;Domínguez;10293847;M;Divorciado;26/04/1980;Envigado;Medellín;Polo Democrático
+Kevin;Sosa;76543219;M;Soltero;5/09/1982;Bello;Medellín;Partido Verde
+Mauricio;Flores;43216789;M;Casado;8/01/1974;Rionegro;Medellín;Conservador
+Fernando;Vargas;90127834;M;Union libre;31/05/1981;Medellin;Medellín;Polo Democrático
+Jorge;Medina;12349876;M;Divorciado;24/12/1978;Bello;Medellín;Partido de la U
+Guillermo;Castro;45671239;M;Casado;14/03/1972;Envigado;Medellín;Liberal
+Rafael;Soler;89123456;M;Soltero;11/08/1976;Rionegro;Medellín;Liberal
+Rubén;Castro;78901235;M;Divorciado;2/07/1987;Bello;Medellín;Partido Verde
+Ignacio;Vega;56789012;M;Casado;18/10/1983;Medellin;Medellín;Conservador
+Edison;Bravo;45678901;M;Soltero;22/02/1979;Envigado;Medellín;Partido de la U
+René;Muñoz;98765432;M;Union libre;7/06/1985;Rionegro;Medellín;Polo Democrático
+Natalia;Morales;34567890;F;Divorciada;19/01/1971;Bello;Medellín;Partido Verde
+Marcela;Marín;76543210;F;Soltera;12/04/1988;Medellin;Medellín;Partido de la U
+Daniela;Benítez;23456789;F;Casada;29/09/1979;Rionegro;Medellín;Conservador
+Paula;Aguirre;10987654;F;Divorciada;10/03/1984;Envigado;Medellín;Polo Democrático
+Alejandra;Blanco;87651234;F;Union libre;5/07/1981;Bello;Medellín;Liberal
+Sara;Rojas;43219876;F;Soltera;21/12/1977;Medellin;Medellín;Partido de la U
+Diana;Mendoza;12345678;F;Casada;8/08/1986;Envigado;Medellín;Partido Verde
+Tatiana;Campos;65432109;F;Soltera;1/05/1980;Rionegro;Medellín;Conservador
+Adriana;Silva;89012345;F;Union libre;28/11/1973;Bello;Medellín;Polo Democrático
+Carolina;Estrada;56789012;F;Casada;16/09/1982;Medellin;Medellín;Liberal
+Marta;Guzmán;90123456;F;Divorciada;14/06/1976;Envigado;Medellín;Partido Verde
+Valeria;Ríos;78901234;F;Union libre;3/02/1989;Bello;Medellín;Polo Democrático
+María;León;23456780;F;Soltera;24/10/1970;Rionegro;Medellín;Conservador
+Federico;Chávez;56780123;M;Divorciado;9/11/1987;Medellin;Medellín;Partido de la U
+David;Pacheco;34567891;M;Casado;12/07/1968;Envigado;Medellín;Liberal

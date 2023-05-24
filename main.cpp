@@ -8,7 +8,8 @@
 #include "estructura.h"
 #include "ciudad.h"
 #include "alcaldes.h"
-
+#include "partidos.h"
+#include "concejal.h"
 
 
 using namespace std;
@@ -19,7 +20,10 @@ int main(){
 	system("PAUSE");
 	Ciudades c;
 	Alcaldes a;
+	Partidos p;
+	Concejales concejal;
 	a.menuCandidato();
+
 }
 
 

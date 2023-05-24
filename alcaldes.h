@@ -19,7 +19,7 @@ class Alcaldes{
 };
 
 void Alcaldes::menuCandidato(){
-		system("cls");
+	system("cls");
 	int opcionMenu=0;
 	
 	while(opcionMenu!=5){
@@ -139,9 +139,49 @@ void Alcaldes::verCandidato(){
 
 }
 
-
 void Alcaldes::eliminarCandidato(){
-	continue;
-}
+	
+	Candidatos candi;
+	string nombreArchivo = "./Archivos/CandidatosAlcaldesCiudad.txt";
+    string idBuscar;
+    string nombreTemporal = "temp.txt";
 
+    ifstream archivoEntrada(nombreArchivo);
+    ofstream archivoTemporal(nombreTemporal);
+
+    if (!archivoEntrada || !archivoTemporal) {
+        cout << "Error al abrir el archivo." << endl;
+        
+    }
+    cout << "Digite el ID del candidato que desea borrar"<<endl;
+    cin.ignore();
+	getline(cin,idBuscar);
+    string linea;
+	
+    // Copiar todas las líneas excepto la que contiene la ciudad buscada al archivo temporal
+    while (getline(archivoEntrada, linea)) {
+        size_t posicionPuntoComa = linea.find(';');
+        if (posicionPuntoComa != string::npos) {
+            string ciudad = linea.substr(0, posicionPuntoComa);
+            if (ciudad != idBuscar) {
+                archivoTemporal << linea << endl;
+            }
+        }
+    }
+
+    archivoEntrada.close();
+    archivoTemporal.close();
+
+    // Eliminar el archivo original
+    remove(nombreArchivo.c_str());
+
+    // Renombrar el archivo temporal con el nombre del archivo original
+    if (rename(nombreTemporal.c_str(), nombreArchivo.c_str()) != 0) {
+        cout << "Error al renombrar el archivo." << endl;
+        
+    }
+	
+    cout << "Línea eliminada del archivo." << endl;
+	
+}
 #endif

@@ -1,5 +1,6 @@
-Liberal;Tito Garzon
-Conservador;Julio Martinez
-Partido Verde;Leonardo Fabio
-Partido de la U;Pablo Fernandez
-Polo democratico;Santiago Oliveiro
+
+1;Liberal;Tito Garzon
+2;Conservador;Julio Martinez
+3;Partido Verde;Leonardo Fabio
+4;Partido de la U;Pablo Fernandez
+5;Polo democratico;Santiago Oliveiro
